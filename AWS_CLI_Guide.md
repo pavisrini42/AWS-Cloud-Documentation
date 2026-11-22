@@ -596,7 +596,7 @@ For more advanced usage, explore the [AWS CLI Documentation](https://docs.aws.am
 ---
 
 **Author:** Pavithra Srinivasan  
-**Last Updated:** April 2024  
+**Last Updated:** November 2026  
 **AWS Services:** EC2, IAM, CLI  
 **Region:** Asia Pacific (Mumbai) - ap-south-1
 
